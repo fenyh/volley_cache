@@ -10,7 +10,7 @@ import com.fengyh.volley.cache.util.Configs;
 import com.fengyh.volley.cache.util.DebugUtil;
 import com.fengyh.volley.cache.util.JsonUtil;
 import com.fengyh.volley.cache.util.NetWorkHandler;
-import com.storm.customloading.R;
+import com.fengyh.app.R;
 
 import android.app.Activity;
 import android.os.Bundle;

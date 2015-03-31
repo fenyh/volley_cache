@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.storm.customloading;
+package com.fengyh.app;
 
 public final class R {
     public static final class attr {
